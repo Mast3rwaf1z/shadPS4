@@ -9,580 +9,580 @@
 namespace Libraries::Http {
 
 int PS4_SYSV_ABI sceHttpAbortRequest() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpAbortRequestForce() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpAbortWaitRequest() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpAddCookie() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpAddQuery() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpAddRequestHeader() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpAddRequestHeaderRaw() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpAuthCacheExport() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpAuthCacheFlush() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpAuthCacheImport() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpCacheRedirectedConnectionEnabled() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpCookieExport() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpCookieFlush() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpCookieImport() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpCreateConnection() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpCreateConnectionWithURL() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpCreateEpoll() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpCreateRequest() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpCreateRequest2() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpCreateRequestWithURL() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpCreateRequestWithURL2() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpCreateTemplate() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpDbgEnableProfile() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpDbgGetConnectionStat() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpDbgGetRequestStat() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpDbgSetPrintf() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpDbgShowConnectionStat() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpDbgShowMemoryPoolStat() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpDbgShowRequestStat() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpDbgShowStat() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpDeleteConnection() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpDeleteRequest() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpDeleteTemplate() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpDestroyEpoll() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetAcceptEncodingGZIPEnabled() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetAllResponseHeaders() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetAuthEnabled() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetAutoRedirect() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetConnectionStat() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetCookie() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetCookieEnabled() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetCookieStats() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetEpoll() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetEpollId() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetLastErrno() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetMemoryPoolStats() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetNonblock() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetRegisteredCtxIds() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetResponseContentLength() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpGetStatusCode() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpInit(int libnetMemId, int libsslCtxId, std::size_t poolSize) {
-    LOG_ERROR(Lib_Http, "(DUMMY) called libnetMemId = {} libsslCtxId = {} poolSize = {}",
-              libnetMemId, libsslCtxId, poolSize);
+    //LOG_ERROR(Lib_Http, "(DUMMY) called libnetMemId = {} libsslCtxId = {} poolSize = {}",
+    //          libnetMemId, libsslCtxId, poolSize);
     // return a value >1
     static int id = 0;
     return ++id;
 }
 
 int PS4_SYSV_ABI sceHttpParseResponseHeader() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpParseStatusLine() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpReadData() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpRedirectCacheFlush() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpRemoveRequestHeader() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpRequestGetAllHeaders() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpsDisableOption() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpsDisableOptionPrivate() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpsEnableOption() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpsEnableOptionPrivate() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSendRequest() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetAcceptEncodingGZIPEnabled() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetAuthEnabled() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetAuthInfoCallback() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetAutoRedirect() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetChunkedTransferEnabled() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetConnectTimeOut() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetCookieEnabled() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetCookieMaxNum() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetCookieMaxNumPerDomain() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetCookieMaxSize() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetCookieRecvCallback() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetCookieSendCallback() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetCookieTotalMaxSize() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetDefaultAcceptEncodingGZIPEnabled() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetDelayBuildRequestEnabled() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetEpoll() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetEpollId() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetHttp09Enabled() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetInflateGZIPEnabled() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetNonblock() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetPolicyOption() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetPriorityOption() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetProxy() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetRecvBlockSize() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetRecvTimeOut() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetRedirectCallback() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetRequestContentLength() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetRequestStatusCallback() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetResolveRetry() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetResolveTimeOut() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetResponseHeaderMaxSize() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetSendTimeOut() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpSetSocketCreationCallback() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpsFreeCaList() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpsGetCaList() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpsGetSslError() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpsLoadCert() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpsSetMinSslVersion() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpsSetSslCallback() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpsSetSslVersion() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpsUnloadCert() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpTerm() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpTryGetNonblock() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpTrySetNonblock() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpUnsetEpoll() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpUriBuild() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpUriCopy() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpUriEscape() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpUriMerge() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpUriParse() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpUriSweepPath() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpUriUnescape() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
 int PS4_SYSV_ABI sceHttpWaitRequest() {
-    LOG_ERROR(Lib_Http, "(STUBBED) called");
+    //LOG_ERROR(Lib_Http, "(STUBBED) called");
     return ORBIS_OK;
 }
 
